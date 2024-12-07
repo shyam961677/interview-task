@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Dec 07, 2024 at 11:11 AM
+-- Generation Time: Dec 07, 2024 at 05:29 PM
 -- Server version: 9.1.0
 -- PHP Version: 8.0.30
 
@@ -46,7 +46,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `dob`, `mobile`, `email`, `pin`, `status`, `created_at`, `updated_at`) VALUES
-(1, 'Shyam Yadav', '1997-07-20', '9616776594', 'shyammilan002@gmail.com', '961677', '1', '2024-12-07 11:07:28', '2024-12-07 11:07:28');
+(1, 'Shyam Yadav', '1997-07-20', '9616776594', 'shyammilan002@gmail.com', '201301', '1', '2024-12-07 17:26:55', '2024-12-07 17:26:55');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

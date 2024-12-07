@@ -68,7 +68,7 @@ if ( ! function_exists('create_captcha'))
 			'img_path'	=> $img_path,
 			'img_url'	=> $img_url,
 			'img_width'	=> '150',
-			'img_height'	=> '40',
+			'img_height'	=> '36',
 			'font_path'	=> $font_path,
 			'expiration'	=> 7200,
 			'word_length'	=> 6,
